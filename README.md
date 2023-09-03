@@ -30,15 +30,15 @@ Welcome back to another lab in Azure, where we will explore the basics of active
 <img src="https://i.imgur.com/b072hLc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/tZZUpmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/GJF7yR3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/70Y5c4y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Go ahead and now login to client-1 via Microsoft Remote Desktop, and ping the domain controller's private IP address with a perpetual ping (-t). It should say request timed out, this is because we need to enable ICMPv4 on the domain controller's firewall. After we have done this, go back to client-1 and you will see that the ping succeeded.
+
 <br />
 
 <p>

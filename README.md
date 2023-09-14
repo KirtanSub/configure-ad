@@ -28,9 +28,9 @@ This tutorial explores the uses of Active Directory within Microsoft Azure using
 Welcome back to another lab in Azure, where we will explore the basics of active directory. We will start off by creating two virtual machines as usual, one will be a domain controller (the VM that houses active directory) which will use the windows server 2022, and the other will be the client VM (which will use the windows 10 OS). We will also need to make sure that the Windows Server IP address is static and not dynamic, as our server is offering active directory services to the client. Also ensure that both VMs are in the same Vnet.
 
 <img src="https://i.imgur.com/b072hLc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/tZZUpmO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/GJF7yR3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/70Y5c4y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/StAG3nR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GndaLmg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SrajpZ3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
